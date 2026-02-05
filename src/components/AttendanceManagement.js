@@ -835,7 +835,6 @@ function AttendanceManagement() {
                         </td>
                         <td style={styles.td}>
                           <span style={{ 
-                            color: '#64748b', 
                             fontSize: '14px',
                             ...styles.badge,
                             background: 'linear-gradient(135deg, #f1f5f9, #e2e8f0)',
